@@ -1,0 +1,9 @@
+{
+  "id": "(プラグインid)",
+  "name": "(プラグインの名前)",
+  "version": "1.0",
+  "authors": [
+    "(あなたの名前)"
+  ],
+  "main": "org.velocityStaffchat.maincode"
+}
