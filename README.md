@@ -1,0 +1,2 @@
+# VelocityStaffchat
+こちらはvelocityサーバー限定で使えるStaffchatプラグインのテンプレートです
